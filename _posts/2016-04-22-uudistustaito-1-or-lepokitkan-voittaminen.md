@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://medium.com/@samiJviitanen/uranoste-oulu-14-4-2016-uudistu
 inLanguage: fi
 keywords: []
 description: UUDISTUSTAITO
-datePublished: '2016-04-22T12:04:47.067Z'
-dateModified: '2016-04-22T12:01:39.192Z'
+datePublished: '2016-04-22T12:15:49.403Z'
+dateModified: '2016-04-22T12:15:48.832Z'
 author:
   - name: Sami J.Viitanen
     url: 'https://medium.com/@samiJviitanen'
