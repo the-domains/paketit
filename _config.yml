@@ -1,7 +1,7 @@
 name: Ei tämä maailma vielä valmis ole.
 favicon: null
-layout_spectrum: 0.08629
-typography_spectrum: 0.24432
+layout_spectrum: 0.82314
+typography_spectrum: 0.93534
 title: OMAN TEKEMISEN PARANTAMINEN AUTTAA AINA
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#7b7b7b'
     - '#ffffff'
     - '#bfbfbf'
-  brandStrength: 0.375
+  brandStrength: 0.5
   lightness: 0
   saturation: 0.5
   rhythmicContrast: 0.25
