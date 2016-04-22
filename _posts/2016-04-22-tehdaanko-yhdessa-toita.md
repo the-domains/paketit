@@ -1,25 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.samijviitanen.fi'
-  name: Sami J.Viitanen
-  favicon: 'http://www.samijviitanen.fi/favicon.ico'
-  domain: www.samijviitanen.fi
-keywords: []
-description: Lisäarvoa tai ei mitään.
-inLanguage: fi
-app_links: []
-isBasedOnUrl: 'http://www.samijviitanen.fi/yhdessa/'
-title: Tehdäänkö yhdessä töitä?
-datePublished: '2016-04-22T11:48:05.725Z'
-dateModified: '2016-04-22T10:58:26.873Z'
-starred: false
-sourcePath: _posts/2016-04-22-tehdaanko-yhdessa-toita.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.samijviitanen.fi/yhdessa/'
+inLanguage: fi
+keywords: []
+description: Lisäarvoa tai ei mitään.
+datePublished: '2016-04-22T12:09:03.363Z'
+dateModified: '2016-04-22T12:08:49.720Z'
+author: []
+related: []
+app_links: []
+title: Tehdäänkö yhdessä töitä?
+sourcePath: _posts/2016-04-22-tehdaanko-yhdessa-toita.md
+published: true
+authors: []
+publisher:
+  name: Sami J.Viitanen
+  domain: www.samijviitanen.fi
+  url: 'http://www.samijviitanen.fi'
+  favicon: 'http://www.samijviitanen.fi/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
