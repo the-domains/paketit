@@ -1,4 +1,23 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiprMvfjaLMAhVKDywKHRs0AZYQ3ywIHTAA&url=https%3A%2F%2Fwww.ted.com%2Ftalks%2Fsimon_sinek_how_great_leaders_inspire_action%3Flanguage%3Den&usg=AFQjCNGEe37oScg4b-hiwMwz1hkYdU8srQ&sig2=jVUWd63-gIV5XuLLGx6r2w&bvm=bv.119745492,d.bGg'
+inLanguage: en
+keywords:
+  - tedxpuget
+  - sinek
+  - javascript
+  - luther
+  - beg
+  - golden
+  - simon
+  - ted
+  - enthusiastically
+  - wright
+description: ''
+datePublished: '2016-04-22T11:48:42.170Z'
+dateModified: '2016-04-22T11:48:41.674Z'
 author:
   - name: ''
     url: null
@@ -32,24 +51,6 @@ related:
     thumbnail_height: 180
     thumbnail_url: 'http://tedcdnpe-a.akamaihd.net/images/ted/99da7b24202e70ffebb79d5c849556847c805d18_240x180.jpg?lang=en'
     thumbnail_width: 240
-publisher:
-  url: 'http://ted.com'
-  name: TED
-  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
-  domain: www.google.com
-keywords:
-  - tedxpuget
-  - sinek
-  - javascript
-  - luther
-  - beg
-  - golden
-  - simon
-  - ted
-  - enthusiastically
-  - wright
-description: ''
-inLanguage: en
 app_links:
   - url: 'ted://x-callback-url/talk?talkID=848&source=facebook'
     namespace: ai
@@ -76,18 +77,20 @@ app_links:
     namespace: twitter
     id: com.ted.android
     name: TED
-isBasedOnUrl: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiprMvfjaLMAhVKDywKHRs0AZYQ3ywIHTAA&url=https%3A%2F%2Fwww.ted.com%2Ftalks%2Fsimon_sinek_how_great_leaders_inspire_action%3Flanguage%3Den&usg=AFQjCNGEe37oScg4b-hiwMwz1hkYdU8srQ&sig2=jVUWd63-gIV5XuLLGx6r2w&bvm=bv.119745492,d.bGg'
 title: ''
-datePublished: '2016-04-22T11:48:05.785Z'
-dateModified: '2016-04-22T11:10:04.409Z'
-starred: false
 sourcePath: _posts/2016-04-22-simon-sinek-how-great-leaders-inspire-action.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: TED
+  domain: www.google.com
+  url: 'http://ted.com'
+  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fembed-ssl.ted.com%2Ftalks%2Fsimon_sinek_how_great_leaders_inspire_action.html&amp;url=https%3A%2F%2Fwww.ted.com%2Ftalks%2Fsimon_sinek_how_great_leaders_inspire_action%3Flanguage%3Den&amp;image=http%3A%2F%2Ftedcdnpe-a.akamaihd.net%2Fimages%2Fted%2F8d116f6ed73143154a5f8fd240fa4ab6fd52b1cb_240x180.jpg%3Flang%3Den&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=ted" width="560" height="315" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3b4d428-adc6-400d-904c-8968bf4197c3.jpg)
