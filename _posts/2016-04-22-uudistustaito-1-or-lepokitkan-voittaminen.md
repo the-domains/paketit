@@ -1,17 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://medium.com/@samiJviitanen/uranoste-oulu-14-4-2016-uudistustaito-i-9312bca9e46c#.sbxk34cjs'
+inLanguage: fi
+keywords: []
+description: UUDISTUSTAITO
+datePublished: '2016-04-22T12:04:47.067Z'
+dateModified: '2016-04-22T12:01:39.192Z'
 author:
   - name: Sami J.Viitanen
     url: 'https://medium.com/@samiJviitanen'
     avatar: {}
 related: []
-publisher:
-  url: 'https://medium.com'
-  name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
-  domain: medium.com
-keywords: []
-description: 'Meillä kaikilla on tavoitteita. Mutta mitä vaaditaan, jotta tavoitteisiin voi päästä? Listataanpa muutama juttu, mitä tarvitsen - oikeastaan huolimatta siitä minkälaisesta tavoitteesta on kyse: Kovaa työtä Keskittymiskykyä Kärsivällisyyttä Käsitys siitä mitä asioita tavoitteen suorittamiseksi pitää tehdä Riittävä määrä taitoa suorittaa noita oikeita asioita Hyvä. Melkoinen lista vai mitä?'
-inLanguage: fi
 app_links:
   - type: android
     namespace: ai
@@ -37,18 +38,18 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
-title: 'Uudistustaito 1 | Lepokitkan voittaminen'
-datePublished: '2016-04-22T11:48:56.234Z'
-dateModified: '2016-04-22T11:47:32.926Z'
-starred: false
+title: Lepokitkan voittaminen
 sourcePath: _posts/2016-04-22-uudistustaito-1-or-lepokitkan-voittaminen.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: uudistustaito-1-or-lepokitkan-voittaminen/index.html
+authors: []
+publisher:
+  name: Medium
+  domain: medium.com
+  url: 'https://medium.com'
+  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
+starred: false
 _type: Article
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>Uudistustaito 1 | Lepokitkan voittaminen</h1><p>Meillä kaikilla on tavoitteita. Mutta mitä vaaditaan, jotta tavoitteisiin voi päästä? Listataanpa muutama juttu, mitä tarvitsen - oikeastaan huolimatta siitä minkälaisesta tavoitteesta on kyse: Kovaa työtä Keskittymiskykyä Kärsivällisyyttä Käsitys siitä mitä asioita tavoitteen suorittamiseksi pitää tehdä Riittävä määrä taitoa suorittaa noita oikeita asioita Hyvä. Melkoinen lista vai mitä?</p><img src="https://cdn-images-1.medium.com/max/2000/1*0PR3hfwrthAcL1V8nIu4Jw.jpeg" /></article>
+<article style=""><h1>Lepokitkan voittaminen</h1><p>UUDISTUSTAITO</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f516553822c23f930d0e67ee821ee02f28a4fd63.jpg" /></article>
