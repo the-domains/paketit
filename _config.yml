@@ -1,0 +1,28 @@
+name: Paketit
+favicon: null
+layout_spectrum: 0.43444574158638716
+typography_spectrum: 0.03182652103714645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7363260167185217
+  lightness: 0.7297286444809288
+  saturation: 0.07344894949346781
+  rhythmicContrast: 0.3339129213709384
+purpose: []
