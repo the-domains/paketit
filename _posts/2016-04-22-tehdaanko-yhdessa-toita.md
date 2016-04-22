@@ -1,13 +1,12 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.samijviitanen.fi/yhdessa/'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: fi
 keywords: []
 description: Lisäarvoa tai ei mitään.
-datePublished: '2016-04-22T12:11:13.901Z'
-dateModified: '2016-04-22T12:10:46.381Z'
+datePublished: '2016-04-22T12:16:36.013Z'
+dateModified: '2016-04-22T12:12:48.045Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   url: 'http://www.samijviitanen.fi'
   favicon: 'http://www.samijviitanen.fi/favicon.ico'
 starred: false
+url: tehdaanko-yhdessa-toita/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
