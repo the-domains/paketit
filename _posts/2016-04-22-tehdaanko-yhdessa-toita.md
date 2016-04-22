@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.samijviitanen.fi/yhdessa/'
 inLanguage: fi
 keywords: []
 description: Lisäarvoa tai ei mitään.
-datePublished: '2016-04-22T12:09:03.363Z'
-dateModified: '2016-04-22T12:08:49.720Z'
+datePublished: '2016-04-22T12:11:13.901Z'
+dateModified: '2016-04-22T12:10:46.381Z'
 author: []
 related: []
 app_links: []
@@ -26,3 +26,5 @@ _type: MediaObject
 
 ---
 <article style=""><h1>Tehdäänkö yhdessä töitä?</h1><p>Lisäarvoa tai ei mitään.</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d5a6bd-8ecc-4f1e-9806-0ec29ab8e35b.jpg)
