@@ -1,20 +1,13 @@
 name: Ei tämä maailma vielä valmis ole.
-favicon: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d949b8a6-768e-43db-a80b-642b637bb481.png
 layout_spectrum: 0.82314
 typography_spectrum: 0.93534
-title: OMAN TEKEMISEN PARANTAMINEN AUTTAA AINA
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#1c1c1c'
@@ -27,3 +20,10 @@ color:
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
+title: OMAN TEKEMISEN PARANTAMINEN AUTTAA AINA
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
